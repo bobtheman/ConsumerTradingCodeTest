@@ -1,0 +1,10 @@
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\bin\Debug\ConsumerTrading.exe.config
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\bin\Debug\ConsumerTrading.exe
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\bin\Debug\ConsumerTrading.pdb
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\obj\Debug\ConsumerTrading.csprojResolveAssemblyReference.cache
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\obj\Debug\ConsumerTrading.ConsumerForm.resources
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\obj\Debug\ConsumerTrading.Properties.Resources.resources
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\obj\Debug\ConsumerTrading.csproj.GenerateResource.Cache
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\obj\Debug\ConsumerTrading.exe
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\obj\Debug\ConsumerTrading.pdb
+c:\users\owen.r\documents\visual studio 2015\Projects\ConsumerTrading\ConsumerTrading\bin\Debug\DataStreams.dll

@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <PolicyDetails>
+    <policy_number>A100001</policy_number>
+    <policy_start_date>01/06/1986 00:00:00</policy_start_date>
+    <premiums>10000</premiums>
+    <membership>Y</membership>
+    <discretionary_bonus>1000</discretionary_bonus>
+    <uplift_percentage>40</uplift_percentage>
+    <policy_type>A</policy_type>
+    <maturity>14980.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>A100002</policy_number>
+    <policy_start_date>01/01/1990 00:00:00</policy_start_date>
+    <premiums>12500</premiums>
+    <membership>N</membership>
+    <discretionary_bonus>1350</discretionary_bonus>
+    <uplift_percentage>37.5</uplift_percentage>
+    <policy_type>A</policy_type>
+    <maturity>18865.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>A100003</policy_number>
+    <policy_start_date>31/12/1989 00:00:00</policy_start_date>
+    <premiums>15250</premiums>
+    <membership>N</membership>
+    <discretionary_bonus>1600</discretionary_bonus>
+    <uplift_percentage>42</uplift_percentage>
+    <policy_type>A</policy_type>
+    <maturity>22949.50</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>B100001</policy_number>
+    <policy_start_date>01/01/1995 00:00:00</policy_start_date>
+    <premiums>12000</premiums>
+    <membership>Y</membership>
+    <discretionary_bonus>2000</discretionary_bonus>
+    <uplift_percentage>41</uplift_percentage>
+    <policy_type>B</policy_type>
+    <maturity>18760.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>B100002</policy_number>
+    <policy_start_date>01/01/1970 00:00:00</policy_start_date>
+    <premiums>18000</premiums>
+    <membership>N</membership>
+    <discretionary_bonus>3000</discretionary_bonus>
+    <uplift_percentage>43</uplift_percentage>
+    <policy_type>B</policy_type>
+    <maturity>28140.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>B100003</policy_number>
+    <policy_start_date>20/07/1969 00:00:00</policy_start_date>
+    <premiums>20000</premiums>
+    <membership>Y</membership>
+    <discretionary_bonus>4000</discretionary_bonus>
+    <uplift_percentage>45</uplift_percentage>
+    <policy_type>B</policy_type>
+    <maturity>32200.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>C100001</policy_number>
+    <policy_start_date>01/01/1992 00:00:00</policy_start_date>
+    <premiums>13000</premiums>
+    <membership>N</membership>
+    <discretionary_bonus>1000</discretionary_bonus>
+    <uplift_percentage>42</uplift_percentage>
+    <policy_type>C</policy_type>
+    <maturity>18326.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>C100002</policy_number>
+    <policy_start_date>31/12/1989 00:00:00</policy_start_date>
+    <premiums>15000</premiums>
+    <membership>Y</membership>
+    <discretionary_bonus>2000</discretionary_bonus>
+    <uplift_percentage>44</uplift_percentage>
+    <policy_type>C</policy_type>
+    <maturity>22330.00</maturity>
+  </PolicyDetails>
+  <PolicyDetails>
+    <policy_number>C100003</policy_number>
+    <policy_start_date>01/01/1990 00:00:00</policy_start_date>
+    <premiums>17000</premiums>
+    <membership>Y</membership>
+    <discretionary_bonus>3000</discretionary_bonus>
+    <uplift_percentage>46</uplift_percentage>
+    <policy_type>C</policy_type>
+    <maturity>26334.00</maturity>
+  </PolicyDetails>
+</DocumentElement>
